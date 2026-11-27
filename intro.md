@@ -11,6 +11,8 @@ date_footer: "YYYY-MM-DD"
 header_title: "How long can the curve of the Li coefficients keep bending the same way?"
 ---
 
+DOI of this text: [doi:10.5281/zenodo.24577218](https://doi.org/10.5281/zenodo.24577218)
+
 This is an introductory text to the research paper *Sign runs and the density of sign changes of Keiper-Li second differences* [[Per26]](https://doi.org/10.5281/zenodo.24486137), by the same author. The paper has the proofs and the full computations. This note has the idea. No equations are needed to follow it. It makes no claim the paper does not make, and for each claim it says whether it is proved, certified by computer with error bars, or only computed.
 
 One caution comes first, and it matters more here than usual. **Every new result of the paper is conditional.** Most of them assume the Riemann hypothesis (RH), whose announced proof is described just below, and some assume a second, unproved, hypothesis about independence. The paper proves nothing unconditional about the questions below. It does not prove RH and it does not disprove it.
