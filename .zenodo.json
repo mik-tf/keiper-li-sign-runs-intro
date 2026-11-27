@@ -1,0 +1,29 @@
+{
+  "upload_type": "publication",
+  "publication_type": "other",
+  "title": "How long can the curve of the Li coefficients keep bending the same way? Introductory text to Sign runs and the density of sign changes of Keiper-Li second differences",
+  "creators": [
+    {
+      "name": "Perreault, Michaël",
+      "orcid": "0009-0003-0017-7658",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "description": "<p>A plain-language introduction to a research paper on sign runs, and the density of sign changes, of the Keiper-Li second differences. The paper has the proofs; this note has the idea, and it says what the paper does and does not claim.</p>",
+  "keywords": [
+    "Keiper-Li coefficients",
+    "Riemann hypothesis",
+    "sign runs",
+    "density of sign changes"
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24486137",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    }
+  ]
+}
